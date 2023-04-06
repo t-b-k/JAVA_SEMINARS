@@ -11,7 +11,7 @@ public class ArrayToStackAndQueue {
         Stack<Integer> ourStack = new Stack<>();
         Queue<Integer> ourQueue = new LinkedList<>();
 
-        for (int i = 0; i < wrkArray.length) {
+        for (int i = 0; i < wrkArray.length; i++) {
             ourStack.push(wrkArray[i]);
             ourQueue.add(wrkArray[i]);
         }

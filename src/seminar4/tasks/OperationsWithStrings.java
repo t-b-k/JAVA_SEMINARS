@@ -22,8 +22,7 @@ public class OperationsWithStrings {
 
             if (stg.equalsIgnoreCase("print") ) {
                 System.out.println(texts);
-            } else if () {
-
+//            } else if () {
             }
         }
     }
