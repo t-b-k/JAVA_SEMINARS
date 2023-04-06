@@ -50,6 +50,7 @@ public class Task2_LinkedListExample {
                 break;
             }
         }
+        scanner.close();
     }
 
     public static boolean isNumeric (String strNum){
